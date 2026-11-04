@@ -34,16 +34,16 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 0%
 ---
 # 사용자 워크플로우
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Marketing Campaign Analytics**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
+**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Mix Modeler**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
 
 >[!ENDSHADEBOX]
 

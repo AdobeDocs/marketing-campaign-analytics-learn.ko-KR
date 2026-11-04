@@ -25,16 +25,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 ---
 # 목표 기반 계획
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Marketing Campaign Analytics**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
+**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Mix Modeler**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
 
 >[!ENDSHADEBOX]
 

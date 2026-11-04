@@ -66,4 +66,4 @@ ht-degree: 0%
 
 사용자 인터페이스에서 Marketing Campaign Analytics의 주요 기능을 참조하십시오. 자세한 내용은 [Adobe Marketing Campaign Analytics 안내서](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/get-started/workflow)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452389?captions=kor&learn=on&enablevpops)

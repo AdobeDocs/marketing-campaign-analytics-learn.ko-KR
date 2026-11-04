@@ -49,4 +49,4 @@ ht-degree: 0%
 
 Marketing Campaign Analytics의 워크플로우에 대해 알아봅니다. 자세한 내용은 [Marketing Campaign Analytics 워크플로](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/get-started/workflow) 설명서를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440210?captions=kor&learn=on&enablevpops)

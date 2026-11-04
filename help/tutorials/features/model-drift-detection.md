@@ -28,19 +28,19 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '100'
 ht-degree: 0%
 ---
 # 모델 드리프트 감지
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Marketing Campaign Analytics**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
+**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Mix Modeler**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
 
 >[!ENDSHADEBOX]
 
-Marketing Campaign Analytics의 모델 드리프트 감지 기능을 사용하면 모델 성능의 변화가 자동으로 감지되고 사용자에게 알려집니다. 모델을 최적의 성능으로 되돌리기 위해 즉각적인 조치를 취할 수 있습니다. 자세한 내용은 Marketing Campaign Analytics 설명서에서 [모델 드리프트](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}를 참조하십시오.
+Marketing Campaign Analytics의 모델 드리프트 감지 기능을 사용하면 모델 성능의 변화가 자동으로 감지되고 사용자에게 알려집니다. 모델을 최적의 성능으로 되돌리기 위해 즉각적인 조치를 취할 수 있습니다. 자세한 내용은 Marketing Campaign Analytics 설명서에서 [모델 드리프트](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"}를 참조하십시오.
 
 >[!SLIDE](model-drift-detection)

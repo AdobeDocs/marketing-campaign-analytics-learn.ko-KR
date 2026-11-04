@@ -25,19 +25,19 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 ---
 # 목표 기반 계획
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Marketing Campaign Analytics**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
+**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Mix Modeler**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
 
 >[!ENDSHADEBOX]
 
-Marketing Campaign Analytics의 목표 기반 계획 기능을 사용하면 예산뿐만 아니라 비즈니스 목표에서 계획할 수 있습니다. 채널 및 캠페인에 예산을 효율적으로 할당하여 ROI를 극대화하고 목표를 달성할 수 있습니다. 자세한 내용은 Marketing Campaign Analytics 설명서에서 [계획](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/plans/overview){target="_blank"}을 참조하세요.
+Marketing Campaign Analytics의 목표 기반 계획 기능을 사용하면 예산뿐만 아니라 비즈니스 목표에서 계획할 수 있습니다. 채널 및 캠페인에 예산을 효율적으로 할당하여 ROI를 극대화하고 목표를 달성할 수 있습니다. 자세한 내용은 Marketing Campaign Analytics 설명서에서 [계획](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}을 참조하세요.
 
 >[!SLIDE](goal-based-planning)

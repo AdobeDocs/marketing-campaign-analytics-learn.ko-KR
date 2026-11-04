@@ -51,19 +51,19 @@ topic_v2:
     internal-label: Insights
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 ---
 # 사용자 인터페이스 둘러보기
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Marketing Campaign Analytics**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
+**Adobe Marketing Campaign Analytics**&#x200B;은(는) **Adobe Mix Modeler**&#x200B;의 발전 및 리브랜딩입니다. 일부 Experience League 컨텐츠는 여전히 Marketing Campaign Analytics 대신 Mix Modeler을 참조할 수 있습니다.
 
 >[!ENDSHADEBOX]
 
-사용자 인터페이스에서 Marketing Campaign Analytics의 주요 기능을 참조하십시오. 자세한 내용은 [Adobe Marketing Campaign Analytics 안내서](https://experienceleague.adobe.com/ko/docs/mix-modeler/using/get-started/workflow)를 참조하십시오.
+사용자 인터페이스에서 Marketing Campaign Analytics의 주요 기능을 참조하십시오. 자세한 내용은 [Adobe Marketing Campaign Analytics 안내서](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452389?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
